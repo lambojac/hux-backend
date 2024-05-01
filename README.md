@@ -1,5 +1,5 @@
 MERN Contact Keeper App | Visit Deployed App on Heroku<br><br>
-Link: https://sleepy-meadow-56084.herokuapp.com
+Link: 
 
 # <h2>Contact Keeper :ledger:</h2>
 
@@ -9,23 +9,21 @@ Full stack MERN contact manager with React hooks, context & JWT authentication.<
 ### Preview Interface
 
 <h4>Register Page:</h4>
-<br>
-<img src="https://github.com/varunswing/contact_manager/blob/master/images/register.jpg"/>
-<br>
+
 
 <h4>Login Page:</h4>
 <br>
-<img src="https://github.com/varunswing/contact_manager/blob/master/images/login.jpg"/>
+
 <br>
 
 <h4>Home Page:</h4>
 <br>
-<img src="https://github.com/varunswing/contact_manager/blob/master/images/Home.jpg"/>
+
 <br>
 
 <h4>Update Page:</h4>
 <br>
-<img src="https://github.com/varunswing/contact_manager/blob/master/images/edit.jpg"/>
+
 <br>
 
 ## Technologies Used:
@@ -74,8 +72,4 @@ Some of the functions of this project are
 | MONGO_URI  |  MongoDB URI   |
 | EMPASSWORD | Email password |
 
-Feel free to reach out if any issue :raised_hands:
 
-## :busts_in_silhouette: Maintainer
-
--   [Varun Sharma](https://github.com/varunswing)
