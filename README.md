@@ -7,7 +7,7 @@ Full stack MERN contact manager with React hooks, context & JWT authentication.<
 
 ## Technologies Used:
 
-:electric_plug: VS STUDIO :electric_plug: POSTMAN :electric_plug: MongoDB ATLAS <br>
+:electric_plug: VS STUDIO :electric_plug: POSTMAN :electric_plug: MongoDB ATLAS <br>electric_plug: express
 
 ## Usage
 
